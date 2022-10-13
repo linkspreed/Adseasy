@@ -13,38 +13,27 @@ The ultimative advertising 😎 network solution 🌾 for creator and publisher 
 
 ## Features
 
-**DASHBOARD** – Get an overview of your account and your tracked websites.
+### **Publisher Dashboard Features**:
+- 100% Secure Publisher Dashboard.
+- Domains adding and Setting manager.
+- Advertises Types.
+- Withdraw Manager.
+- Ad Reports.
+- Day to day earnings Logs.
+- Support Tickets.
+- And More….
 
-**STATS** – Get specific statistics & analytics reports for a website:
-- Realtime
-- Overview
-- Behavior
-    - Pages
-    - Landing pages
-    
--Acquisitions
-    - Referrers
-    - Search engines
-    - Social networks
-    - Campaigns
-    
-- Geographic
-    - Continents
-    - Countries
-    - Cities
-    - Languages
-    
-- Technology
-    - Operating systems
-    - Browsers
-    - Screen resolutions
-    - Devices
-    
-- Events
 
-**EXPORT** – Export your statistics & analytics reports in CSV format.
-
-**NOTIFICATIONS** – Get periodic emails about your websites performance.
+### **Advertiser Dashboard Features**:
+- 100% Secure Advertiser Dashboard.
+- Advertises Manager.
+- Price plans Manager.
+- Deposit Manager.
+- Transaction Logs.
+- Day to day costing Logs.
+- Automatic Payment Method.
+- Support Tickets.
+- And More….
 
 **AND SO MUCH MORE ...**
 
