@@ -1,4 +1,4 @@
-# Adseasy ([Click to try 🚀](https://adseasy.tk/))
+# Adseasy ([Click to try 🚀](https://adseasy.linkspreed.com/))
 
 The ultimative advertising 😎 network solution 🌾 for creator and publisher powered by Adseasy. 🧑‍💻
 
